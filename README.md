@@ -1,21 +1,69 @@
-# kelime-ezberleme
+# 📚 Kelime Ezberleme Uygulaması
 
-İngilizce-Türkçe kelime ezberleme uygulaması.
+İngilizce kelime öğrenmeyi eğlenceli ve etkili hale getiren Flutter tabanlı mobil uygulama.
 
-## Özellikler
-- İngilizce kelimeleri ekleyip, Türkçe karşılıklarını görebilirsiniz.
-- Kendi kelime listenizi oluşturabilirsiniz.
-- Ezberleme ve test modülleri.
+## 🌟 Özellikler
 
-## Kurulum
-1. Bu repoyu klonlayın:
-   ```sh
+- 📝 **Kelime Yönetimi**
+  - Kendi kelimelerinizi ekleyebilme
+  - Türkçe-İngilizce karşılıkları görüntüleme
+  - Görsel destekli öğrenme
+
+- 🎯 **Öğrenme Araçları**
+  - Test modülü ile kendini değerlendirme
+  - Wordle benzeri kelime oyunu
+  - İlerleme takibi ve raporlama
+
+- 🔄 **Diğer Özellikler**
+  - Kullanıcı hesabı oluşturma ve giriş
+  - İlerleme kaydetme
+  - PDF rapor oluşturma
+
+## 🚀 Kurulum
+
+1. **Gereksinimleri Yükleyin**
+   - [Flutter](https://flutter.dev/docs/get-started/install)
+   - [Git](https://git-scm.com/downloads)
+
+2. **Projeyi Klonlayın**
+   ```bash
    git clone https://github.com/Berkya97/kelime-ezberleme.git
+   cd kelime-ezberleme
    ```
-2. Proje klasörüne girin ve bağımlılıkları yükleyin (kullandığınız teknolojiye göre).
 
-## Katkı
-Pull request ve issue açabilirsiniz.
+3. **Bağımlılıkları Yükleyin**
+   ```bash
+   flutter pub get
+   ```
 
-## Lisans
-MIT
+4. **Uygulamayı Çalıştırın**
+   ```bash
+   flutter run
+   ```
+
+## 📱 Ekran Görüntüleri
+
+- Ana Ekran
+- Test Ekranı
+- Kelime Ekleme
+- Raporlama
+
+## 🤝 Katkıda Bulunma
+
+1. Bu repoyu forklayın
+2. Yeni bir branch oluşturun (`git checkout -b feature/YeniOzellik`)
+3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: XYZ'`)
+4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
+5. Pull Request oluşturun
+
+## 📄 Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+
+## 👥 Geliştiriciler
+
+- [Berkay Yavuz](https://github.com/Berkya97)
+
+## 📞 İletişim
+
+Sorularınız için [GitHub Issues](https://github.com/Berkya97/kelime-ezberleme/issues) sayfasını kullanabilirsiniz.
