@@ -1,0 +1,2292 @@
+[
+  {
+    "id": 1,
+    "engWord": "book",
+    "turWord": "kitap",
+    "imageAsset": "assets/images/book.jpg",
+    "samples": [
+      "She read a book.",
+      "He bought a book."
+    ]
+  },
+  {
+    "id": 2,
+    "engWord": "apple",
+    "turWord": "elma",
+    "imageAsset": "assets/images/apple.jpg",
+    "samples": [
+      "I ate an apple.",
+      "The apple is red."
+    ]
+  },
+  {
+    "id": 3,
+    "engWord": "cat",
+    "turWord": "kedi",
+    "imageAsset": "assets/images/cat.jpg",
+    "samples": [
+      "The cat is sleeping.",
+      "Her cat is playful."
+    ]
+  },
+  {
+    "id": 4,
+    "engWord": "dog",
+    "turWord": "köpek",
+    "imageAsset": "assets/images/dog.jpg",
+    "samples": [
+      "The dog barked loudly.",
+      "I walked the dog."
+    ]
+  },
+  {
+    "id": 5,
+    "engWord": "car",
+    "turWord": "araba",
+    "imageAsset": "assets/images/car.jpg",
+    "samples": [
+      "He drove his car.",
+      "The car is new."
+    ]
+  },
+  {
+    "id": 6,
+    "engWord": "house",
+    "turWord": "ev",
+    "imageAsset": "assets/images/house.jpg",
+    "samples": [
+      "My house is big.",
+      "They painted the house."
+    ]
+  },
+  {
+    "id": 7,
+    "engWord": "tree",
+    "turWord": "ağaç",
+    "imageAsset": "assets/images/tree.jpg",
+    "samples": [
+      "The tree is tall.",
+      "He climbed the tree."
+    ]
+  },
+  {
+    "id": 8,
+    "engWord": "water",
+    "turWord": "su",
+    "imageAsset": "assets/images/water.jpg",
+    "samples": [
+      "She drinks water.",
+      "Water is essential."
+    ]
+  },
+  {
+    "id": 9,
+    "engWord": "sun",
+    "turWord": "güneş",
+    "imageAsset": "assets/images/sun.jpg",
+    "samples": [
+      "The sun is shining.",
+      "He watched the sunset."
+    ]
+  },
+  {
+    "id": 10,
+    "engWord": "moon",
+    "turWord": "ay",
+    "imageAsset": "assets/images/moon.jpg",
+    "samples": [
+      "The moon is full.",
+      "They saw the moonrise."
+    ]
+  },
+  {
+    "id": 11,
+    "engWord": "apple",
+    "turWord": "elma",
+    "imageAsset": "assets/images/apple.jpg",
+    "samples": [
+      "An apple a day keeps the doctor away.",
+      "She sliced the apple."
+    ]
+  },
+  {
+    "id": 12,
+    "engWord": "coffee",
+    "turWord": "kahve",
+    "imageAsset": "assets/images/coffee.jpg",
+    "samples": [
+      "I need a cup of coffee.",
+      "Coffee wakes me up in the morning."
+    ]
+  },
+  {
+    "id": 13,
+    "engWord": "computer",
+    "turWord": "bilgisayar",
+    "imageAsset": "assets/images/computer.jpg",
+    "samples": [
+      "She uses a computer every day.",
+      "The computer is very fast."
+    ]
+  },
+  {
+    "id": 14,
+    "engWord": "phone",
+    "turWord": "telefon",
+    "imageAsset": "assets/images/phone.jpg",
+    "samples": [
+      "He called me on the phone.",
+      "My phone battery is low."
+    ]
+  },
+  {
+    "id": 15,
+    "engWord": "school",
+    "turWord": "okul",
+    "imageAsset": "assets/images/school.jpg",
+    "samples": [
+      "They go to school by bus.",
+      "School starts at eight o'clock."
+    ]
+  },
+  {
+    "id": 16,
+    "engWord": "teacher",
+    "turWord": "öğretmen",
+    "imageAsset": "assets/images/teacher.jpg",
+    "samples": [
+      "Our teacher explains things clearly.",
+      "The teacher assigned homework."
+    ]
+  },
+  {
+    "id": 17,
+    "engWord": "student",
+    "turWord": "öğrenci",
+    "imageAsset": "assets/images/student.jpg",
+    "samples": [
+      "The student studied hard for the exam.",
+      "She is a good student."
+    ]
+  },
+  {
+    "id": 18,
+    "engWord": "city",
+    "turWord": "şehir",
+    "imageAsset": "assets/images/city.jpg",
+    "samples": [
+      "I live in a big city.",
+      "The city lights are beautiful at night."
+    ]
+  },
+  {
+    "id": 19,
+    "engWord": "river",
+    "turWord": "nehir",
+    "imageAsset": "assets/images/river.jpg",
+    "samples": [
+      "The river flows through the forest.",
+      "They went fishing by the river."
+    ]
+  },
+  {
+    "id": 20,
+    "engWord": "mountain",
+    "turWord": "dağ",
+    "imageAsset": "assets/images/mountain.jpg",
+    "samples": [
+      "We hiked up the mountain.",
+      "The mountain peak is covered in snow."
+    ]
+  },
+  {
+    "id": 21,
+    "engWord": "flower",
+    "turWord": "çiçek",
+    "imageAsset": "assets/images/flower.jpg",
+    "samples": [
+      "She picked a flower from the garden.",
+      "The garden has many colorful flowers."
+    ]
+  },
+  {
+    "id": 22,
+    "engWord": "food",
+    "turWord": "yemek",
+    "imageAsset": "assets/images/food.jpg",
+    "samples": [
+      "The food at the restaurant was delicious.",
+      "He cooked food for his family."
+    ]
+  },
+  {
+    "id": 23,
+    "engWord": "music",
+    "turWord": "müzik",
+    "imageAsset": "assets/images/music.jpg",
+    "samples": [
+      "I love listening to music.",
+      "Music makes me feel relaxed."
+    ]
+  },
+  {
+    "id": 24,
+    "engWord": "movie",
+    "turWord": "film",
+    "imageAsset": "assets/images/movie.jpg",
+    "samples": [
+      "We watched a movie last night.",
+      "The movie was very exciting."
+    ]
+  },
+  {
+    "id": 25,
+    "engWord": "friend",
+    "turWord": "arkadaş",
+    "imageAsset": "assets/images/friend.jpg",
+    "samples": [
+      "He is my best friend.",
+      "We met a new friend at school."
+    ]
+  },
+  {
+    "id": 26,
+    "engWord": "family",
+    "turWord": "aile",
+    "imageAsset": "assets/images/family.jpg",
+    "samples": [
+      "Her family is very supportive.",
+      "I spent the weekend with my family."
+    ]
+  },
+  {
+    "id": 27,
+    "engWord": "work",
+    "turWord": "iş",
+    "imageAsset": "assets/images/work.jpg",
+    "samples": [
+      "He goes to work early every morning.",
+      "Work can be challenging but rewarding."
+    ]
+  },
+  {
+    "id": 28,
+    "engWord": "travel",
+    "turWord": "seyahat",
+    "imageAsset": "assets/images/travel.jpg",
+    "samples": [
+      "They plan to travel next summer.",
+      "Travel broadens your horizons."
+    ]
+  },
+  {
+    "id": 29,
+    "engWord": "health",
+    "turWord": "saglik",
+    "imageAsset": "assets/images/health.jpg",
+    "samples": [
+      "Good health is very important.",
+      "She takes vitamins for her health."
+    ]
+  },
+  {
+    "id": 30,
+    "engWord": "garden",
+    "turWord": "bahçe",
+    "imageAsset": "assets/images/garden.jpg",
+    "samples": [
+      "He planted tomatoes in the garden.",
+      "The garden is full of flowers."
+    ]
+  },
+  {
+    "id": 31,
+    "engWord": "window",
+    "turWord": "pencere",
+    "imageAsset": "assets/images/window.jpg",
+    "samples": [
+      "She opened the window for fresh air.",
+      "The window has a beautiful view."
+    ]
+  },
+  {
+    "id": 32,
+    "engWord": "chair",
+    "turWord": "sandalye",
+    "imageAsset": "assets/images/chair.jpg",
+    "samples": [
+      "Please take a chair and sit down.",
+      "The chair is made of wood."
+    ]
+  },
+  {
+    "id": 33,
+    "engWord": "table",
+    "turWord": "masa",
+    "imageAsset": "assets/images/table.jpg",
+    "samples": [
+      "She set the table for dinner.",
+      "The table is made of oak."
+    ]
+  },
+  {
+    "id": 34,
+    "engWord": "pen",
+    "turWord": "kalem",
+    "imageAsset": "assets/images/pen.jpg",
+    "samples": [
+      "I wrote my name with a blue pen.",
+      "He asked to borrow my pen."
+    ]
+  },
+  {
+    "id": 35,
+    "engWord": "paper",
+    "turWord": "kâğıt",
+    "imageAsset": "assets/images/paper.jpg",
+    "samples": [
+      "Please hand me a sheet of paper.",
+      "She folded the paper into an airplane."
+    ]
+  },
+  {
+    "id": 36,
+    "engWord": "door",
+    "turWord": "kapi",
+    "imageAsset": "assets/images/door.jpg",
+    "samples": [
+      "He knocked on the door twice.",
+      "The door creaked when it opened."
+    ]
+  },
+  {
+    "id": 37,
+    "engWord": "road",
+    "turWord": "yol",
+    "imageAsset": "assets/images/road.jpg",
+    "samples": [
+      "The road was icy this morning.",
+      "They drove down a winding road."
+    ]
+  },
+  {
+    "id": 38,
+    "engWord": "street",
+    "turWord": "sokak",
+    "imageAsset": "assets/images/street.jpg",
+    "samples": [
+      "There is a bakery on this street.",
+      "The street lights turned on at dusk."
+    ]
+  },
+  {
+    "id": 39,
+    "engWord": "park",
+    "turWord": "park",
+    "imageAsset": "assets/images/park.jpg",
+    "samples": [
+      "We walked our dog in the park.",
+      "Children are playing in the park."
+    ]
+  },
+  {
+    "id": 40,
+    "engWord": "sky",
+    "turWord": "gökyüzü",
+    "imageAsset": "assets/images/sky.jpg",
+    "samples": [
+      "Birds are flying in the sky.",
+      "The sky turned orange at sunset."
+    ]
+  },
+  {
+    "id": 41,
+    "engWord": "star",
+    "turWord": "yıldız",
+    "imageAsset": "assets/images/star.jpg",
+    "samples": [
+      "She wished upon a star.",
+      "The sky was full of stars last night."
+    ]
+  },
+  {
+    "id": 42,
+    "engWord": "cloud",
+    "turWord": "bulut",
+    "imageAsset": "assets/images/cloud.jpg",
+    "samples": [
+      "A dark cloud covered the sun.",
+      "The cloud looked like a dragon."
+    ]
+  },
+  {
+    "id": 43,
+    "engWord": "rain",
+    "turWord": "yağmur",
+    "imageAsset": "assets/images/rain.jpg",
+    "samples": [
+      "We stayed inside because of the rain.",
+      "The rain tapped against the window."
+    ]
+  },
+  {
+    "id": 44,
+    "engWord": "snow",
+    "turWord": "kar",
+    "imageAsset": "assets/images/snow.jpg",
+    "samples": [
+      "The children built a snowman.",
+      "Snow covered the ground overnight."
+    ]
+  },
+  {
+    "id": 45,
+    "engWord": "wind",
+    "turWord": "rüzgâr",
+    "imageAsset": "assets/images/wind.jpg",
+    "samples": [
+      "The wind blew her hat away.",
+      "You could hear the wind howling."
+    ]
+  },
+  {
+    "id": 46,
+    "engWord": "fire",
+    "turWord": "ateş",
+    "imageAsset": "assets/images/fire.jpg",
+    "samples": [
+      "They sat around the campfire.",
+      "The fire warmed the cold room."
+    ]
+  },
+  {
+    "id": 47,
+    "engWord": "earth",
+    "turWord": " Dünya",
+    "imageAsset": "assets/images/earth.jpg",
+    "samples": [
+      "We live on planet Earth.",
+      "She planted flowers in the earth."
+    ]
+  },
+  {
+    "id": 48,
+    "engWord": "beach",
+    "turWord": "plaj",
+    "imageAsset": "assets/images/beach.jpg",
+    "samples": [
+      "They spent the day at the beach.",
+      "The beach was crowded in summer."
+    ]
+  },
+  {
+    "id": 49,
+    "engWord": "sea",
+    "turWord": "deniz",
+    "imageAsset": "assets/images/sea.jpg",
+    "samples": [
+      "The sea was calm today.",
+      "He sailed across the sea."
+    ]
+  },
+  {
+    "id": 50,
+    "engWord": "ocean",
+    "turWord": "ocean",
+    "imageAsset": "assets/images/ocean.jpg",
+    "samples": [
+      "Waves crashed against the shore of the ocean.",
+      "The Pacific Ocean is vast."
+    ]
+  },
+  {
+    "id": 51,
+    "engWord": "forest",
+    "turWord": "orman",
+    "imageAsset": "assets/images/forest.jpg",
+    "samples": [
+      "They hiked through the forest.",
+      "The forest was quiet at dawn."
+    ]
+  },
+  {
+    "id": 52,
+    "engWord": "island",
+    "turWord": "ada",
+    "imageAsset": "assets/images/island.jpg",
+    "samples": [
+      "They vacationed on a tropical island.",
+      "A small island appeared on the horizon."
+    ]
+  },
+  {
+    "id": 53,
+    "engWord": "desert",
+    "turWord": "çöl",
+    "imageAsset": "assets/images/desert.jpg",
+    "samples": [
+      "Camels can travel across the desert.",
+      "Sand dunes stretch across the desert."
+    ]
+  },
+  {
+    "id": 54,
+    "engWord": "valley",
+    "turWord": "vadi",
+    "imageAsset": "assets/images/valley.jpg",
+    "samples": [
+      "The valley was lush and green.",
+      "A river flowed through the valley."
+    ]
+  },
+  {
+    "id": 55,
+    "engWord": "hill",
+    "turWord": "tepe",
+    "imageAsset": "assets/images/hill.jpg",
+    "samples": [
+      "We climbed the hill at sunrise.",
+      "The house sits atop a hill."
+    ]
+  },
+  {
+    "id": 56,
+    "engWord": "lake",
+    "turWord": "göl",
+    "imageAsset": "assets/images/lake.jpg",
+    "samples": [
+      "They went fishing on the lake.",
+      "The lake reflects the mountains."
+    ]
+  },
+  {
+    "id": 57,
+    "engWord": "camera",
+    "turWord": "kamera",
+    "imageAsset": "assets/images/camera.jpg",
+    "samples": [
+      "She took pictures with her camera.",
+      "The camera recorded the entire event."
+    ]
+  },
+  {
+    "id": 58,
+    "engWord": "picture",
+    "turWord": "resim",
+    "imageAsset": "assets/images/picture.jpg",
+    "samples": [
+      "He hung a picture on the wall.",
+      "The picture captured the moment perfectly."
+    ]
+  },
+  {
+    "id": 59,
+    "engWord": "song",
+    "turWord": "şarkı",
+    "imageAsset": "assets/images/song.jpg",
+    "samples": [
+      "She sang a new song.",
+      "The song played on the radio."
+    ]
+  },
+  {
+    "id": 60,
+    "engWord": "game",
+    "turWord": "oyun",
+    "imageAsset": "assets/images/game.jpg",
+    "samples": [
+      "They played a board game.",
+      "The video game is very popular."
+    ]
+  },
+  {
+    "id": 61,
+    "engWord": "sport",
+    "turWord": "spor",
+    "imageAsset": "assets/images/sport.jpg",
+    "samples": [
+      "He practices a sport every weekend.",
+      "Sport helps maintain good health."
+    ]
+  },
+  {
+    "id": 62,
+    "engWord": "dance",
+    "turWord": " dans",
+    "imageAsset": "assets/images/dance.jpg",
+    "samples": [
+      "They watched the dance performance.",
+      "She learned a new dance move."
+    ]
+  },
+  {
+    "id": 63,
+    "engWord": "color",
+    "turWord": "renk",
+    "imageAsset": "assets/images/color.jpg",
+    "samples": [
+      "Blue is her favorite color.",
+      "They mixed colors to paint the mural."
+    ]
+  },
+  {
+    "id": 64,
+    "engWord": "light",
+    "turWord": "ışık",
+    "imageAsset": "assets/images/light.jpg",
+    "samples": [
+      "The room was filled with light.",
+      "She switched off the light before sleeping."
+    ]
+  },
+  {
+    "id": 65,
+    "engWord": "dark",
+    "turWord": "karanlık",
+    "imageAsset": "assets/images/dark.jpg",
+    "samples": [
+      "The room was dark without windows.",
+      "He is afraid of the dark."
+    ]
+  },
+  {
+    "id": 66,
+    "engWord": "morning",
+    "turWord": "sabah",
+    "imageAsset": "assets/images/morning.jpg",
+    "samples": [
+      "She goes for a run every morning.",
+      "Birds sing in the morning."
+    ]
+  },
+  {
+    "id": 67,
+    "engWord": "evening",
+    "turWord": "akşam",
+    "imageAsset": "assets/images/evening.jpg",
+    "samples": [
+      "They had dinner in the evening.",
+      "The lights turn on in the evening."
+    ]
+  },
+  {
+    "id": 68,
+    "engWord": "breakfast",
+    "turWord": "kahvaltı",
+    "imageAsset": "assets/images/breakfast.jpg",
+    "samples": [
+      "She had eggs for breakfast.",
+      "They skipped breakfast today."
+    ]
+  },
+  {
+    "id": 69,
+    "engWord": "lunch",
+    "turWord": "öğle yemeği",
+    "imageAsset": "assets/images/lunch.jpg",
+    "samples": [
+      "He packed a sandwich for lunch.",
+      "They ate lunch at noon."
+    ]
+  },
+  {
+    "id": 70,
+    "engWord": "dinner",
+    "turWord": "akşam yemeği",
+    "imageAsset": "assets/images/dinner.jpg",
+    "samples": [
+      "They cooked a special dinner.",
+      "He invited friends over for dinner."
+    ]
+  },
+  {
+    "id": 71,
+    "engWord": "bank",
+    "turWord": "banka",
+    "imageAsset": "assets/images/bank.jpg",
+    "samples": [
+      "She deposited money at the bank.",
+      "The bank opens at nine."
+    ]
+  },
+  {
+    "id": 72,
+    "engWord": "shop",
+    "turWord": "mağaza",
+    "imageAsset": "assets/images/shop.jpg",
+    "samples": [
+      "They went to the shop for groceries.",
+      "The shop closes early on Sundays."
+    ]
+  },
+  {
+    "id": 73,
+    "engWord": "market",
+    "turWord": "pazar",
+    "imageAsset": "assets/images/market.jpg",
+    "samples": [
+      "They visited the market on Saturday.",
+      "The market sells fresh produce."
+    ]
+  },
+  {
+    "id": 74,
+    "engWord": "hospital",
+    "turWord": "hastane",
+    "imageAsset": "assets/images/hospital.jpg",
+    "samples": [
+      "He was taken to the hospital.",
+      "The hospital staff was very helpful."
+    ]
+  },
+  {
+    "id": 75,
+    "engWord": "doctor",
+    "turWord": "doktor",
+    "imageAsset": "assets/images/doctor.jpg",
+    "samples": [
+      "She made an appointment with her doctor.",
+      "The doctor gave good advice."
+    ]
+  },
+  {
+    "id": 76,
+    "engWord": "nurse",
+    "turWord": "hemşire",
+    "imageAsset": "assets/images/nurse.jpg",
+    "samples": [
+      "The nurse checked her temperature.",
+      "A nurse administered the vaccine."
+    ]
+  },
+  {
+    "id": 77,
+    "engWord": "police",
+    "turWord": "polis",
+    "imageAsset": "assets/images/police.jpg",
+    "samples": [
+      "The police arrived quickly.",
+      "She called the police for help."
+    ]
+  },
+  {
+    "id": 78,
+    "engWord": "library",
+    "turWord": "kütüphane",
+    "imageAsset": "assets/images/library.jpg",
+    "samples": [
+      "They studied in the library.",
+      "The library has many old books."
+    ]
+  },
+  {
+    "id": 79,
+    "engWord": "museum",
+    "turWord": "müze",
+    "imageAsset": "assets/images/museum.jpg",
+    "samples": [
+      "They visited the museum on vacation.",
+      "The museum exhibits are fascinating."
+    ]
+  },
+  {
+    "id": 80,
+    "engWord": "church",
+    "turWord": "kilise",
+    "imageAsset": "assets/images/church.jpg",
+    "samples": [
+      "They attended church on Sunday.",
+      "The old church sits on a hill."
+    ]
+  },
+  {
+    "id": 81,
+    "engWord": "office",
+    "turWord": "ofis",
+    "imageAsset": "assets/images/office.jpg",
+    "samples": [
+      "He works in a big office.",
+      "The office is on the tenth floor."
+    ]
+  },
+  {
+    "id": 82,
+    "engWord": "factory",
+    "turWord": "fabrika",
+    "imageAsset": "assets/images/factory.jpg",
+    "samples": [
+      "The factory produces cars.",
+      "She toured the factory last week."
+    ]
+  },
+  {
+    "id": 83,
+    "engWord": "kitchen",
+    "turWord": "mutfak",
+    "imageAsset": "assets/images/kitchen.jpg",
+    "samples": [
+      "She cooked dinner in the kitchen.",
+      "The kitchen was spotless."
+    ]
+  },
+  {
+    "id": 84,
+    "engWord": "bathroom",
+    "turWord": "banyo",
+    "imageAsset": "assets/images/bathroom.jpg",
+    "samples": [
+      "He washed his hands in the bathroom.",
+      "The bathroom has a large mirror."
+    ]
+  },
+  {
+    "id": 85,
+    "engWord": "bedroom",
+    "turWord": "yatak odası",
+    "imageAsset": "assets/images/bedroom.jpg",
+    "samples": [
+      "Her bedroom is painted blue.",
+      "He reads in bed before sleeping."
+    ]
+  },
+  {
+    "id": 86,
+    "engWord": "livingroom",
+    "turWord": "oturma odası",
+    "imageAsset": "assets/images/livingroom.jpg",
+    "samples": [
+      "They watched TV in the livingroom.",
+      "The livingroom has a fireplace."
+    ]
+  },
+  {
+    "id": 87,
+    "engWord": "parents",
+    "turWord": "ebeveynler",
+    "imageAsset": "assets/images/parents.jpg",
+    "samples": [
+      "Her parents live nearby.",
+      "She visits her parents every weekend."
+    ]
+  },
+  {
+    "id": 88,
+    "engWord": "mother",
+    "turWord": "anne",
+    "imageAsset": "assets/images/mother.jpg",
+    "samples": [
+      "His mother baked a cake.",
+      "She called her mother for advice."
+    ]
+  },
+  {
+    "id": 89,
+    "engWord": "father",
+    "turWord": "baba",
+    "imageAsset": "assets/images/father.jpg",
+    "samples": [
+      "Her father is a teacher.",
+      "She went fishing with her father."
+    ]
+  },
+  {
+    "id": 90,
+    "engWord": "sister",
+    "turWord": "kız kardeş",
+    "imageAsset": "assets/images/sister.jpg",
+    "samples": [
+      "Her sister lives abroad.",
+      "She plays the piano with her sister."
+    ]
+  },
+  {
+    "id": 91,
+    "engWord": "brother",
+    "turWord": "erkek kardeş",
+    "imageAsset": "assets/images/brother.jpg",
+    "samples": [
+      "His brother is two years older.",
+      "He shares a room with his brother."
+    ]
+  },
+  {
+    "id": 92,
+    "engWord": "son",
+    "turWord": "oğul",
+    "imageAsset": "assets/images/son.jpg",
+    "samples": [
+      "Their son is in college.",
+      "He surprised his son with a gift."
+    ]
+  },
+  {
+    "id": 93,
+    "engWord": "daughter",
+    "turWord": "kız evlat",
+    "imageAsset": "assets/images/daughter.jpg",
+    "samples": [
+      "Their daughter loves painting.",
+      "She played with her daughter."
+    ]
+  },
+  {
+    "id": 94,
+    "engWord": "uncle",
+    "turWord": "amca/dayı",
+    "imageAsset": "assets/images/uncle.jpg",
+    "samples": [
+      "Her uncle told a funny story.",
+      "She visited her uncle’s farm."
+    ]
+  },
+  {
+    "id": 95,
+    "engWord": "aunt",
+    "turWord": "tante",
+    "imageAsset": "assets/images/aunt.jpg",
+    "samples": [
+      "Her aunt makes the best cookies.",
+      "She received a letter from her aunt."
+    ]
+  },
+  {
+    "id": 96,
+    "engWord": "cousin",
+    "turWord": "kuzen",
+    "imageAsset": "assets/images/cousin.jpg",
+    "samples": [
+      "Her cousin is coming to visit.",
+      "They played games with their cousin."
+    ]
+  },
+  {
+    "id": 97,
+    "engWord": "head",
+    "turWord": "baş",
+    "imageAsset": "assets/images/head.jpg",
+    "samples": [
+      "He nodded his head in agreement.",
+      "She hit her head on the door."
+    ]
+  },
+  {
+    "id": 98,
+    "engWord": "face",
+    "turWord": "yüz",
+    "imageAsset": "assets/images/face.jpg",
+    "samples": [
+      "She washed her face this morning.",
+      "His face lit up with joy."
+    ]
+  },
+  {
+    "id": 99,
+    "engWord": "nose",
+    "turWord": "burun",
+    "imageAsset": "assets/images/nose.jpg",
+    "samples": [
+      "She sniffed with her nose.",
+      "He wiped his nose with a tissue."
+    ]
+  },
+  {
+    "id": 100,
+    "engWord": "mouth",
+    "turWord": "ağız",
+    "imageAsset": "assets/images/mouth.jpg",
+    "samples": [
+      "She smiled with her mouth wide open.",
+      "He rinsed his mouth after eating."
+    ]
+  },
+  {
+    "id": 101,
+    "engWord": "ear",
+    "turWord": "kulak",
+    "imageAsset": "assets/images/ear.jpg",
+    "samples": [
+      "She put jewelry in her ear.",
+      "He whispered quietly in her ear."
+    ]
+  },
+  {
+    "id": 102,
+    "engWord": "hair",
+    "turWord": "saç",
+    "imageAsset": "assets/images/hair.jpg",
+    "samples": [
+      "She brushed her hair gently.",
+      "His hair turned gray with age."
+    ]
+  },
+  {
+    "id": 103,
+    "engWord": "arm",
+    "turWord": "kol",
+    "imageAsset": "assets/images/arm.jpg",
+    "samples": [
+      "She lifted the box with her arm.",
+      "He wore a watch on his arm."
+    ]
+  },
+  {
+    "id": 104,
+    "engWord": "leg",
+    "turWord": "bacak",
+    "imageAsset": "assets/images/leg.jpg",
+    "samples": [
+      "She broke her leg skiing.",
+      "He stretched his leg before running."
+    ]
+  },
+  {
+    "id": 105,
+    "engWord": "foot",
+    "turWord": "ayak",
+    "imageAsset": "assets/images/foot.jpg",
+    "samples": [
+      "She wore boots on her foot.",
+      "He stepped on a nail with his foot."
+    ]
+  },
+  {
+    "id": 106,
+    "engWord": "finger",
+    "turWord": "parmak",
+    "imageAsset": "assets/images/finger.jpg",
+    "samples": [
+      "She pointed with her finger.",
+      "He snapped his finger to get attention."
+    ]
+  },
+  {
+    "id": 107,
+    "engWord": "heart",
+    "turWord": "yürek",
+    "imageAsset": "assets/images/heart.jpg",
+    "samples": [
+      "Her heart beat fast with excitement.",
+      "He spoke from the heart."
+    ]
+  },
+  {
+    "id": 108,
+    "engWord": "brain",
+    "turWord": "beyin",
+    "imageAsset": "assets/images/brain.jpg",
+    "samples": [
+      "She used her brain to solve the puzzle.",
+      "The brain controls the body."
+    ]
+  },
+  {
+    "id": 109,
+    "engWord": "stomach",
+    "turWord": "mide",
+    "imageAsset": "assets/images/stomach.jpg",
+    "samples": [
+      "She had a pain in her stomach.",
+      "He rubbed his stomach after lunch."
+    ]
+  },
+  {
+    "id": 110,
+    "engWord": "bone",
+    "turWord": "kemik",
+    "imageAsset": "assets/images/bone.jpg",
+    "samples": [
+      "The bone healed after surgery.",
+      "She studied the structure of a bone."
+    ]
+  },
+  {
+    "id": 111,
+    "engWord": "skin",
+    "turWord": "cilt",
+    "imageAsset": "assets/images/skin.jpg",
+    "samples": [
+      "She applied lotion to her skin.",
+      "He wore gloves to protect his skin."
+    ]
+  },
+  {
+    "id": 112,
+    "engWord": "blood",
+    "turWord": "kan",
+    "imageAsset": "assets/images/blood.jpg",
+    "samples": [
+      "She donated blood last week.",
+      "His blood pressure is normal."
+    ]
+  },
+  {
+    "id": 113,
+    "engWord": "love",
+    "turWord": "aşk",
+    "imageAsset": "assets/images/love.jpg",
+    "samples": [
+      "Their love grew stronger each day.",
+      "She wrote a poem about love."
+    ]
+  },
+  {
+    "id": 114,
+    "engWord": "time",
+    "turWord": "zaman",
+    "imageAsset": "assets/images/time.jpg",
+    "samples": [
+      "Time flies when you are having fun.",
+      "He checks the time on his watch."
+    ]
+  },
+  {
+    "id": 115,
+    "engWord": "day",
+    "turWord": "gün",
+    "imageAsset": "assets/images/day.jpg",
+    "samples": [
+      "She works Monday through Friday each day.",
+      "He plans for the day ahead."
+    ]
+  },
+  {
+    "id": 116,
+    "engWord": "week",
+    "turWord": "hafta",
+    "imageAsset": "assets/images/week.jpg",
+    "samples": [
+      "They go shopping every week.",
+      "The week flew by quickly."
+    ]
+  },
+  {
+    "id": 117,
+    "engWord": "month",
+    "turWord": "ay",
+    "imageAsset": "assets/images/month.jpg",
+    "samples": [
+      "She pays rent once a month.",
+      "He was born last month."
+    ]
+  },
+  {
+    "id": 118,
+    "engWord": "year",
+    "turWord": "yıl",
+    "imageAsset": "assets/images/year.jpg",
+    "samples": [
+      "They travel abroad every year.",
+      "It takes a year for the Earth to orbit the sun."
+    ]
+  },
+  {
+    "id": 119,
+    "engWord": "moment",
+    "turWord": "an",
+    "imageAsset": "assets/images/moment.jpg",
+    "samples": [
+      "She paused for a moment to think.",
+      "He captured the moment in a photograph."
+    ]
+  },
+  {
+    "id": 120,
+    "engWord": "memory",
+    "turWord": "anı",
+    "imageAsset": "assets/images/memory.jpg",
+    "samples": [
+      "She has a memory of her childhood.",
+      "The photograph brings back a memory."
+    ]
+  },
+  {
+    "id": 121,
+    "engWord": "dream",
+    "turWord": "rüya",
+    "imageAsset": "assets/images/dream.jpg",
+    "samples": [
+      "She had a strange dream last night.",
+      "He follows his dream of becoming a pilot."
+    ]
+  },
+  {
+    "id": 122,
+    "engWord": "plan",
+    "turWord": "plan",
+    "imageAsset": "assets/images/plan.jpg",
+    "samples": [
+      "They made a plan to improve the project.",
+      "He stuck to his plan."
+    ]
+  },
+  {
+    "id": 123,
+    "engWord": "idea",
+    "turWord": "fikir",
+    "imageAsset": "assets/images/idea.jpg",
+    "samples": [
+      "She had a brilliant idea.",
+      "He shared his idea with the team."
+    ]
+  },
+  {
+    "id": 124,
+    "engWord": "problem",
+    "turWord": "sorun",
+    "imageAsset": "assets/images/problem.jpg",
+    "samples": [
+      "They solved the problem together.",
+      "He faced a problem at work."
+    ]
+  },
+  {
+    "id": 125,
+    "engWord": "question",
+    "turWord": "soru",
+    "imageAsset": "assets/images/question.jpg",
+    "samples": [
+      "She asked a question in class.",
+      "He answered the question correctly."
+    ]
+  },
+  {
+    "id": 126,
+    "engWord": "answer",
+    "turWord": "cevap",
+    "imageAsset": "assets/images/answer.jpg",
+    "samples": [
+      "She waited for the answer.",
+      "He didn't know the answer."
+    ]
+  },
+  {
+    "id": 127,
+    "engWord": "truth",
+    "turWord": "gerçek",
+    "imageAsset": "assets/images/truth.jpg",
+    "samples": [
+      "He spoke the truth honestly.",
+      "She searched for the truth."
+    ]
+  },
+  {
+    "id": 128,
+    "engWord": "peace",
+    "turWord": "barış",
+    "imageAsset": "assets/images/peace.jpg",
+    "samples": [
+      "They prayed for world peace.",
+      "The treaty brought peace to the region."
+    ]
+  },
+  {
+    "id": 129,
+    "engWord": "war",
+    "turWord": "savaş",
+    "imageAsset": "assets/images/war.jpg",
+    "samples": [
+      "They learned about war in history class.",
+      "The war ended decades ago."
+    ]
+  },
+  {
+    "id": 130,
+    "engWord": "money",
+    "turWord": "para",
+    "imageAsset": "assets/images/money.jpg",
+    "samples": [
+      "She saved money for a new car.",
+      "He spent money on groceries."
+    ]
+  },
+  {
+    "id": 131,
+    "engWord": "price",
+    "turWord": "fiyat",
+    "imageAsset": "assets/images/price.jpg",
+    "samples": [
+      "She checked the price tag.",
+      "The price of oil has risen."
+    ]
+  },
+  {
+    "id": 132,
+    "engWord": "cost",
+    "turWord": "maliyet",
+    "imageAsset": "assets/images/cost.jpg",
+    "samples": [
+      "They calculated the project’s cost.",
+      "The high cost surprised them."
+    ]
+  },
+  {
+    "id": 133,
+    "engWord": "bag",
+    "turWord": "çanta",
+    "imageAsset": "assets/images/bag.jpg",
+    "samples": [
+      "She carried her books in a bag.",
+      "He bought a new bag for school."
+    ]
+  },
+  {
+    "id": 134,
+    "engWord": "bottle",
+    "turWord": "şişe",
+    "imageAsset": "assets/images/bottle.jpg",
+    "samples": [
+      "She drank water from a bottle.",
+      "He recycled the plastic bottle."
+    ]
+  },
+  {
+    "id": 135,
+    "engWord": "glass",
+    "turWord": "bardak",
+    "imageAsset": "assets/images/glass.jpg",
+    "samples": [
+      "She poured juice into a glass.",
+      "The glass shattered on the floor."
+    ]
+  },
+  {
+    "id": 136,
+    "engWord": "cup",
+    "turWord": "fincan",
+    "imageAsset": "assets/images/cup.jpg",
+    "samples": [
+      "He sipped tea from a porcelain cup.",
+      "She left the dirty cup in the sink."
+    ]
+  },
+  {
+    "id": 137,
+    "engWord": "plate",
+    "turWord": "tabak",
+    "imageAsset": "assets/images/plate.jpg",
+    "samples": [
+      "She placed the cake on a plate.",
+      "He washed the dirty plate after dinner."
+    ]
+  },
+  {
+    "id": 138,
+    "engWord": "fork",
+    "turWord": "çatal",
+    "imageAsset": "assets/images/fork.jpg",
+    "samples": [
+      "She stabbed the salad with a fork.",
+      "He dropped his fork on the table."
+    ]
+  },
+  {
+    "id": 139,
+    "engWord": "knife",
+    "turWord": "bıçak",
+    "imageAsset": "assets/images/knife.jpg",
+    "samples": [
+      "He cut the bread with a knife.",
+      "Be careful with that sharp knife."
+    ]
+  },
+  {
+    "id": 140,
+    "engWord": "spoon",
+    "turWord": "kaşık",
+    "imageAsset": "assets/images/spoon.jpg",
+    "samples": [
+      "She stirred her coffee with a spoon.",
+      "He scooped soup with the spoon."
+    ]
+  },
+  {
+    "id": 141,
+    "engWord": "desk",
+    "turWord": "yazı masası",
+    "imageAsset": "assets/images/desk.jpg",
+    "samples": [
+      "She wrote her essay at the desk.",
+      "The desk drawer was full of pens."
+    ]
+  },
+  {
+    "id": 142,
+    "engWord": "sofa",
+    "turWord": "kanepe",
+    "imageAsset": "assets/images/sofa.jpg",
+    "samples": [
+      "They sat together on the sofa.",
+      "The sofa cushions were very soft."
+    ]
+  },
+  {
+    "id": 143,
+    "engWord": "bed",
+    "turWord": "yatak",
+    "imageAsset": "assets/images/bed.jpg",
+    "samples": [
+      "He slept soundly in his bed.",
+      "She made the bed every morning."
+    ]
+  },
+  {
+    "id": 144,
+    "engWord": "television",
+    "turWord": "televizyon",
+    "imageAsset": "assets/images/television.jpg",
+    "samples": [
+      "They watched a movie on television.",
+      "The television remote was lost."
+    ]
+  },
+  {
+    "id": 145,
+    "engWord": "radio",
+    "turWord": "radyo",
+    "imageAsset": "assets/images/radio.jpg",
+    "samples": [
+      "She listened to music on the radio.",
+      "The radio station played her favorite song."
+    ]
+  },
+  {
+    "id": 146,
+    "engWord": "watch",
+    "turWord": "saat",
+    "imageAsset": "assets/images/watch.jpg",
+    "samples": [
+      "He looked at his watch to check the time.",
+      "She received a gold watch as a gift."
+    ]
+  },
+  {
+    "id": 147,
+    "engWord": "clock",
+    "turWord": "duvar saati",
+    "imageAsset": "assets/images/clock.jpg",
+    "samples": [
+      "The clock on the wall chimed noon.",
+      "He set the alarm on the wall clock."
+    ]
+  },
+  {
+    "id": 148,
+    "engWord": "map",
+    "turWord": "harita",
+    "imageAsset": "assets/images/map.jpg",
+    "samples": [
+      "He pulled out a map to find the way.",
+      "The map showed all the hiking trails."
+    ]
+  },
+  {
+    "id": 149,
+    "engWord": "key",
+    "turWord": "anahtar",
+    "imageAsset": "assets/images/key.jpg",
+    "samples": [
+      "She locked the door with the key.",
+      "He misplaced his house key again."
+    ]
+  },
+  {
+    "id": 150,
+    "engWord": "lock",
+    "turWord": "kilit",
+    "imageAsset": "assets/images/lock.jpg",
+    "samples": [
+      "He closed the lock on the gate.",
+      "The lock was rusty and hard to turn."
+    ]
+  },
+  {
+    "id": 151,
+    "engWord": "mirror",
+    "turWord": "ayna",
+    "imageAsset": "assets/images/mirror.jpg",
+    "samples": [
+      "She glanced at her reflection in the mirror.",
+      "The mirror hung above the dresser."
+    ]
+  },
+  {
+    "id": 152,
+    "engWord": "wall",
+    "turWord": "duvar",
+    "imageAsset": "assets/images/wall.jpg",
+    "samples": [
+      "She painted the wall blue.",
+      "A picture hung on the bedroom wall."
+    ]
+  },
+  {
+    "id": 153,
+    "engWord": "ceiling",
+    "turWord": "tavan",
+    "imageAsset": "assets/images/ceiling.jpg",
+    "samples": [
+      "The chandelier hung from the ceiling.",
+      "She painted the ceiling white."
+    ]
+  },
+  {
+    "id": 154,
+    "engWord": "floor",
+    "turWord": "zemin",
+    "imageAsset": "assets/images/floor.jpg",
+    "samples": [
+      "He cleaned the kitchen floor.",
+      "The floor was covered in dust."
+    ]
+  },
+  {
+    "id": 155,
+    "engWord": "roof",
+    "turWord": "çatı",
+    "imageAsset": "assets/images/roof.jpg",
+    "samples": [
+      "The cat climbed onto the roof.",
+      "The roof leaked during the storm."
+    ]
+  },
+  {
+    "id": 156,
+    "engWord": "grass",
+    "turWord": "çim",
+    "imageAsset": "assets/images/grass.jpg",
+    "samples": [
+      "They sat on the soft grass.",
+      "The grass was wet with morning dew."
+    ]
+  },
+  {
+    "id": 157,
+    "engWord": "leaf",
+    "turWord": "yaprak",
+    "imageAsset": "assets/images/leaf.jpg",
+    "samples": [
+      "A single leaf fell to the ground.",
+      "She collected fallen leaves in autumn."
+    ]
+  },
+  {
+    "id": 158,
+    "engWord": "root",
+    "turWord": "kök",
+    "imageAsset": "assets/images/root.jpg",
+    "samples": [
+      "The tree’s roots grew deep underground.",
+      "He examined the plant’s roots carefully."
+    ]
+  },
+  {
+    "id": 159,
+    "engWord": "seed",
+    "turWord": "tohum",
+    "imageAsset": "assets/images/seed.jpg",
+    "samples": [
+      "She planted a seed in the garden.",
+      "The seed sprouted into a small plant."
+    ]
+  },
+  {
+    "id": 160,
+    "engWord": "fruit",
+    "turWord": "meyve",
+    "imageAsset": "assets/images/fruit.jpg",
+    "samples": [
+      "She ate a piece of fruit after lunch.",
+      "The fruit was ripe and sweet."
+    ]
+  },
+  {
+    "id": 161,
+    "engWord": "vegetable",
+    "turWord": "sebze",
+    "imageAsset": "assets/images/vegetable.jpg",
+    "samples": [
+      "She cooked a mix of vegetables.",
+      "He grows vegetables in his backyard."
+    ]
+  },
+  {
+    "id": 162,
+    "engWord": "meat",
+    "turWord": "et",
+    "imageAsset": "assets/images/meat.jpg",
+    "samples": [
+      "He grilled the meat on the barbecue.",
+      "The meat was tender and juicy."
+    ]
+  },
+  {
+    "id": 163,
+    "engWord": "fish",
+    "turWord": "balık",
+    "imageAsset": "assets/images/fish.jpg",
+    "samples": [
+      "They caught a fish by the lake.",
+      "She cooked the fish with lemon and herbs."
+    ]
+  },
+  {
+    "id": 164,
+    "engWord": "snack",
+    "turWord": "atıştırmalık",
+    "imageAsset": "assets/images/snack.jpg",
+    "samples": [
+      "She brought a healthy snack to work.",
+      "He ate a snack between meals."
+    ]
+  },
+  {
+    "id": 165,
+    "engWord": "dessert",
+    "turWord": "tatlı",
+    "imageAsset": "assets/images/dessert.jpg",
+    "samples": [
+      "She served ice cream for dessert.",
+      "He avoided dessert to save calories."
+    ]
+  },
+  {
+    "id": 166,
+    "engWord": "soup",
+    "turWord": "çorba",
+    "imageAsset": "assets/images/soup.jpg",
+    "samples": [
+      "She warmed up with a bowl of soup.",
+      "The soup smelled of fresh herbs."
+    ]
+  },
+  {
+    "id": 167,
+    "engWord": "rice",
+    "turWord": "pirinç",
+    "imageAsset": "assets/images/rice.jpg",
+    "samples": [
+      "She served rice with curry.",
+      "The rice was fluffy and soft."
+    ]
+  },
+  {
+    "id": 168,
+    "engWord": "bread",
+    "turWord": "ekmek",
+    "imageAsset": "assets/images/bread.jpg",
+    "samples": [
+      "He baked fresh bread this morning.",
+      "They sliced the bread for sandwiches."
+    ]
+  },
+  {
+    "id": 169,
+    "engWord": "butter",
+    "turWord": "tereyağı",
+    "imageAsset": "assets/images/butter.jpg",
+    "samples": [
+      "She spread butter on her toast.",
+      "The butter melted in the hot pan."
+    ]
+  },
+  {
+    "id": 170,
+    "engWord": "cheese",
+    "turWord": "peynir",
+    "imageAsset": "assets/images/cheese.jpg",
+    "samples": [
+      "She topped the pasta with cheese.",
+      "He bought a block of cheese at the store."
+    ]
+  },
+  {
+    "id": 171,
+    "engWord": "egg",
+    "turWord": "yumurta",
+    "imageAsset": "assets/images/egg.jpg",
+    "samples": [
+      "She boiled an egg for breakfast.",
+      "He cracked an egg into the bowl."
+    ]
+  },
+  {
+    "id": 172,
+    "engWord": "milk",
+    "turWord": "süt",
+    "imageAsset": "assets/images/milk.jpg",
+    "samples": [
+      "She poured milk into her cereal.",
+      "He spilled milk on the table."
+    ]
+  },
+  {
+    "id": 173,
+    "engWord": "juice",
+    "turWord": "meyve suyu",
+    "imageAsset": "assets/images/juice.jpg",
+    "samples": [
+      "She squeezed fresh juice.",
+      "The juice was too sour to drink."
+    ]
+  },
+  {
+    "id": 174,
+    "engWord": "tea",
+    "turWord": "çay",
+    "imageAsset": "assets/images/tea.jpg",
+    "samples": [
+      "She enjoys a cup of tea in the morning.",
+      "He offered her herbal tea."
+    ]
+  },
+  {
+    "id": 175,
+    "engWord": "beer",
+    "turWord": "bira",
+    "imageAsset": "assets/images/beer.jpg",
+    "samples": [
+      "They drank beer at the pub.",
+      "He ordered a cold beer after work."
+    ]
+  },
+  {
+    "id": 176,
+    "engWord": "wine",
+    "turWord": "şarap",
+    "imageAsset": "assets/images/wine.jpg",
+    "samples": [
+      "She paired the wine with cheese.",
+      "They visited a vineyard to taste wine."
+    ]
+  },
+  {
+    "id": 177,
+    "engWord": "salt",
+    "turWord": "tuz",
+    "imageAsset": "assets/images/salt.jpg",
+    "samples": [
+      "She added salt to the soup.",
+      "The salt shaker was empty."
+    ]
+  },
+  {
+    "id": 178,
+    "engWord": "sugar",
+    "turWord": "şeker",
+    "imageAsset": "assets/images/sugar.jpg",
+    "samples": [
+      "She put sugar in her coffee.",
+      "He measured sugar for the cake."
+    ]
+  },
+  {
+    "id": 179,
+    "engWord": "pepper",
+    "turWord": "biber",
+    "imageAsset": "assets/images/pepper.jpg",
+    "samples": [
+      "She sprinkled pepper on her salad.",
+      "The pepper was too hot for him."
+    ]
+  },
+  {
+    "id": 180,
+    "engWord": "oil",
+    "turWord": "yağ",
+    "imageAsset": "assets/images/oil.jpg",
+    "samples": [
+      "She used olive oil for cooking.",
+      "He spilled oil on the countertop."
+    ]
+  },
+  {
+    "id": 181,
+    "engWord": "vinegar",
+    "turWord": "sirke",
+    "imageAsset": "assets/images/vinegar.jpg",
+    "samples": [
+      "She poured vinegar into the dressing.",
+      "He cleaned with vinegar and water."
+    ]
+  },
+  {
+    "id": 182,
+    "engWord": "soap",
+    "turWord": "sabun",
+    "imageAsset": "assets/images/soap.jpg",
+    "samples": [
+      "She washed her hands with soap.",
+      "The soap left a pleasant fragrance."
+    ]
+  },
+  {
+    "id": 183,
+    "engWord": "towel",
+    "turWord": "havlu",
+    "imageAsset": "assets/images/towel.jpg",
+    "samples": [
+      "She dried her hair with a towel.",
+      "He hung the towel to dry."
+    ]
+  },
+  {
+    "id": 184,
+    "engWord": "shampoo",
+    "turWord": "şampuan",
+    "imageAsset": "assets/images/shampoo.jpg",
+    "samples": [
+      "She chose a lavender shampoo.",
+      "He lathered his hair with shampoo."
+    ]
+  },
+  {
+    "id": 185,
+    "engWord": "pillow",
+    "turWord": "yastık",
+    "imageAsset": "assets/images/pillow.jpg",
+    "samples": [
+      "She fluffed her pillow before sleeping.",
+      "He rested his head on a soft pillow."
+    ]
+  },
+  {
+    "id": 186,
+    "engWord": "blanket",
+    "turWord": "battaniye",
+    "imageAsset": "assets/images/blanket.jpg",
+    "samples": [
+      "She wrapped herself in a warm blanket.",
+      "The blanket kept her cozy."
+    ]
+  },
+  {
+    "id": 187,
+    "engWord": "sheet",
+    "turWord": "çarşaf",
+    "imageAsset": "assets/images/sheet.jpg",
+    "samples": [
+      "She changed the bed sheet.",
+      "The sheet was covered in wrinkles."
+    ]
+  },
+  {
+    "id": 188,
+    "engWord": "curtain",
+    "turWord": "perde",
+    "imageAsset": "assets/images/curtain.jpg",
+    "samples": [
+      "She drew the curtains at sunset.",
+      "The curtain blocked the morning light."
+    ]
+  },
+  {
+    "id": 189,
+    "engWord": "carpet",
+    "turWord": "halı",
+    "imageAsset": "assets/images/carpet.jpg",
+    "samples": [
+      "She vacuumed the living room carpet.",
+      "The carpet was bright red."
+    ]
+  },
+  {
+    "id": 190,
+    "engWord": "monitor",
+    "turWord": "monitör",
+    "imageAsset": "assets/images/monitor.jpg",
+    "samples": [
+      "He connected the monitor to his laptop.",
+      "The monitor displayed sharp colors."
+    ]
+  },
+  {
+    "id": 191,
+    "engWord": "keyboard",
+    "turWord": "klavye",
+    "imageAsset": "assets/images/keyboard.jpg",
+    "samples": [
+      "She typed quickly on the keyboard.",
+      "He cleaned the keyboard with compressed air."
+    ]
+  },
+  {
+    "id": 192,
+    "engWord": "mouse",
+    "turWord": "fare",
+    "imageAsset": "assets/images/mouse.jpg",
+    "samples": [
+      "She clicked the icon with the mouse.",
+      "He prefers a wireless mouse."
+    ]
+  },
+  {
+    "id": 193,
+    "engWord": "speaker",
+    "turWord": "hoparlör",
+    "imageAsset": "assets/images/speaker.jpg",
+    "samples": [
+      "He adjusted the volume on the speaker.",
+      "The speaker filled the room with sound."
+    ]
+  },
+  {
+    "id": 194,
+    "engWord": "headphone",
+    "turWord": "kulaklık",
+    "imageAsset": "assets/images/headphone.jpg",
+    "samples": [
+      "She wore headphones to listen quietly.",
+      "He untangled his headphone cable."
+    ]
+  },
+  {
+    "id": 195,
+    "engWord": "microphone",
+    "turWord": "mikrofon",
+    "imageAsset": "assets/images/microphone.jpg",
+    "samples": [
+      "She spoke into the microphone.",
+      "The microphone picked up every sound."
+    ]
+  },
+  {
+    "id": 196,
+    "engWord": "lens",
+    "turWord": "lens",
+    "imageAsset": "assets/images/lens.jpg",
+    "samples": [
+      "He attached a new lens to his camera.",
+      "The lens produced a sharp image."
+    ]
+  },
+  {
+    "id": 197,
+    "engWord": "tripod",
+    "turWord": "tripod",
+    "imageAsset": "assets/images/tripod.jpg",
+    "samples": [
+      "He set up the tripod for stability.",
+      "The tripod held the camera steady."
+    ]
+  },
+  {
+    "id": 198,
+    "engWord": "battery",
+    "turWord": "pil",
+    "imageAsset": "assets/images/battery.jpg",
+    "samples": [
+      "She replaced the battery in her remote.",
+      "The battery lasted all day."
+    ]
+  },
+  {
+    "id": 199,
+    "engWord": "charger",
+    "turWord": "şarj aleti",
+    "imageAsset": "assets/images/charger.jpg",
+    "samples": [
+      "She plugged the charger into the phone.",
+      "The charger stopped working."
+    ]
+  },
+  {
+    "id": 200,
+    "engWord": "email",
+    "turWord": "e-posta",
+    "imageAsset": "assets/images/email.jpg",
+    "samples": [
+      "She sent an email to her colleague.",
+      "He checked his email every hour."
+    ]
+  },
+  {
+    "id": 201,
+    "engWord": "message",
+    "turWord": "mesaj",
+    "imageAsset": "assets/images/message.jpg",
+    "samples": [
+      "She received a message from her friend.",
+      "He deleted the old messages."
+    ]
+  },
+  {
+    "id": 202,
+    "engWord": "letter",
+    "turWord": "mektup",
+    "imageAsset": "assets/images/letter.jpg",
+    "samples": [
+      "She wrote a letter to her grandmother.",
+      "He mailed the letter at the post office."
+    ]
+  },
+  {
+    "id": 203,
+    "engWord": "stamp",
+    "turWord": "pul",
+    "imageAsset": "assets/images/stamp.jpg",
+    "samples": [
+      "She put a stamp on the envelope.",
+      "He collected vintage stamps."
+    ]
+  },
+  {
+    "id": 204,
+    "engWord": "envelope",
+    "turWord": "zarf",
+    "imageAsset": "assets/images/envelope.jpg",
+    "samples": [
+      "She sealed the envelope carefully.",
+      "He addressed the envelope to his uncle."
+    ]
+  },
+  {
+    "id": 205,
+    "engWord": "mailbox",
+    "turWord": "posta kutusu",
+    "imageAsset": "assets/images/mailbox.jpg",
+    "samples": [
+      "She checked the mailbox for letters.",
+      "He found a package in his mailbox."
+    ]
+  },
+  {
+    "id": 206,
+    "engWord": "happy",
+    "turWord": "mutlu",
+    "imageAsset": "assets/images/happy.jpg",
+    "samples": [
+      "She felt happy on her birthday.",
+      "He was happy to see his friends."
+    ]
+  },
+  {
+    "id": 207,
+    "engWord": "sad",
+    "turWord": "üzgün",
+    "imageAsset": "assets/images/sad.jpg",
+    "samples": [
+      "She was sad after watching the movie.",
+      "He felt sad when he heard the news."
+    ]
+  },
+  {
+    "id": 208,
+    "engWord": "angry",
+    "turWord": "kızgın",
+    "imageAsset": "assets/images/angry.jpg",
+    "samples": [
+      "She was angry at the rude comment.",
+      "He felt angry about the delay."
+    ]
+  },
+  {
+    "id": 209,
+    "engWord": "tired",
+    "turWord": "yorgun",
+    "imageAsset": "assets/images/tired.jpg",
+    "samples": [
+      "She was tired after the long day.",
+      "He felt tired after running."
+    ]
+  },
+  {
+    "id": 210,
+    "engWord": "hungry",
+    "turWord": "aç",
+    "imageAsset": "assets/images/hungry.jpg",
+    "samples": [
+      "She was hungry by noon.",
+      "He felt hungry after work."
+    ]
+  },
+  {
+    "id": 211,
+    "engWord": "thirsty",
+    "turWord": "susamış",
+    "imageAsset": "assets/images/thirsty.jpg",
+    "samples": [
+      "She was thirsty after the run.",
+      "He was thirsty in the desert."
+    ]
+  },
+  {
+    "id": 212,
+    "engWord": "rich",
+    "turWord": "zengin",
+    "imageAsset": "assets/images/rich.jpg",
+    "samples": [
+      "He became rich after his investment.",
+      "She dreamed of being rich."
+    ]
+  },
+  {
+    "id": 213,
+    "engWord": "poor",
+    "turWord": "fakir",
+    "imageAsset": "assets/images/poor.jpg",
+    "samples": [
+      "They grew up in a poor neighborhood.",
+      "He felt poor compared to his friends."
+    ]
+  },
+  {
+    "id": 214,
+    "engWord": "young",
+    "turWord": "genç",
+    "imageAsset": "assets/images/young.jpg",
+    "samples": [
+      "She is a talented young artist.",
+      "He felt young at heart."
+    ]
+  },
+  {
+    "id": 215,
+    "engWord": "old",
+    "turWord": "yaşlı",
+    "imageAsset": "assets/images/old.jpg",
+    "samples": [
+      "Her grandfather is very old.",
+      "The old house creaked at night."
+    ]
+  },
+  {
+    "id": 216,
+    "engWord": "big",
+    "turWord": "büyük",
+    "imageAsset": "assets/images/big.jpg",
+    "samples": [
+      "They live in a big house.",
+      "He has big plans for the future."
+    ]
+  },
+  {
+    "id": 217,
+    "engWord": "small",
+    "turWord": "küçük",
+    "imageAsset": "assets/images/small.jpg",
+    "samples": [
+      "She adopted a small puppy.",
+      "He wrote a small note."
+    ]
+  },
+  {
+    "id": 218,
+    "engWord": "new",
+    "turWord": "yeni",
+    "imageAsset": "assets/images/new.jpg",
+    "samples": [
+      "She bought a new car.",
+      "He started a new job."
+    ]
+  },
+  {
+    "id": 219,
+    "engWord": "old",
+    "turWord": "eski",
+    "imageAsset": "assets/images/old.jpg",
+    "samples": [
+      "She drives her old car.",
+      "He wore his old sweater."
+    ]
+  },
+  {
+    "id": 220,
+    "engWord": "good",
+    "turWord": "iyi",
+    "imageAsset": "assets/images/good.jpg",
+    "samples": [
+      "She is good at math.",
+      "He had a good time at the party."
+    ]
+  },
+  {
+    "id": 221,
+    "engWord": "bad",
+    "turWord": "kötü",
+    "imageAsset": "assets/images/bad.jpg",
+    "samples": [
+      "He made a bad decision.",
+      "She tasted a bad coffee."
+    ]
+  },
+  {
+    "id": 222,
+    "engWord": "fast",
+    "turWord": "hızlı",
+    "imageAsset": "assets/images/fast.jpg",
+    "samples": [
+      "He runs very fast.",
+      "The fast train arrived early."
+    ]
+  },
+  {
+    "id": 223,
+    "engWord": "slow",
+    "turWord": "yavaş",
+    "imageAsset": "assets/images/slow.jpg",
+    "samples": [
+      "She walked slow in the park.",
+      "The slow internet was frustrating."
+    ]
+  },
+  {
+    "id": 224,
+    "engWord": "hot",
+    "turWord": "sıcak",
+    "imageAsset": "assets/images/hot.jpg",
+    "samples": [
+      "The soup was hot.",
+      "It was a hot day at the beach."
+    ]
+  },
+  {
+    "id": 225,
+    "engWord": "cold",
+    "turWord": "soğuk",
+    "imageAsset": "assets/images/cold.jpg",
+    "samples": [
+      "She wore a coat because it was cold.",
+      "The water felt cold."
+    ]
+  },
+  {
+    "id": 226,
+    "engWord": "interesting",
+    "turWord": "ilginç",
+    "imageAsset": "assets/images/interesting.jpg",
+    "samples": [
+      "She read an interesting article.",
+      "He found the lecture interesting."
+    ]
+  },
+  {
+    "id": 227,
+    "engWord": "boring",
+    "turWord": "sıkıcı",
+    "imageAsset": "assets/images/boring.jpg",
+    "samples": [
+      "The lecture was boring.",
+      "He yawned because the movie was boring."
+    ]
+  },
+  {
+    "id": 228,
+    "engWord": "expensive",
+    "turWord": "pahalı",
+    "imageAsset": "assets/images/expensive.jpg",
+    "samples": [
+      "The dress was too expensive.",
+      "He saved money for the expensive gadget."
+    ]
+  },
+  {
+    "id": 229,
+    "engWord": "cheap",
+    "turWord": "ucuz",
+    "imageAsset": "assets/images/cheap.jpg",
+    "samples": [
+      "She bought a cheap souvenir.",
+      "He prefers cheap meals."
+    ]
+  }
+]
