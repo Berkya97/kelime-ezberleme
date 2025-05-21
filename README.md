@@ -56,13 +56,11 @@
 4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
 ## 👥 Geliştiriciler
 
 - [Berkay Yavuz](https://github.com/Berkya97)
+  
 
 ## 📞 İletişim
 
