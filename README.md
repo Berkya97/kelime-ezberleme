@@ -43,10 +43,14 @@
 
 ## 📱 Ekran Görüntüleri
 
-- Ana Ekran <img width="292" alt="Ekran görüntüsü 2025-05-22 175428" src="https://github.com/user-attachments/assets/7a2523ce-2f0c-470e-964f-ebd7d69daacd" />
-- Test Ekranı <img width="287" alt="Ekran görüntüsü 2025-05-22 175507" src="https://github.com/user-attachments/assets/d2a506bf-d67e-4612-be16-94093a5cdb4c" />
-- Kelime Ekleme <img width="293" alt="Ekran görüntüsü 2025-05-22 175442" src="https://github.com/user-attachments/assets/8ec6bd08-c5b6-4f06-bbba-5c36462dec18" />
-- Raporlama <img width="380" alt="Ekran görüntüsü 2025-05-22 175539" src="https://github.com/user-attachments/assets/2452e85a-f3e5-4aca-9ecf-863eb4bd7aca" />
+- Ana Ekran
+- <img width="292" alt="Ekran görüntüsü 2025-05-22 175428" src="https://github.com/user-attachments/assets/7a2523ce-2f0c-470e-964f-ebd7d69daacd" />
+- Test Ekranı
+- <img width="287" alt="Ekran görüntüsü 2025-05-22 175507" src="https://github.com/user-attachments/assets/d2a506bf-d67e-4612-be16-94093a5cdb4c" />
+- Kelime Ekleme
+- <img width="293" alt="Ekran görüntüsü 2025-05-22 175442" src="https://github.com/user-attachments/assets/8ec6bd08-c5b6-4f06-bbba-5c36462dec18" />
+- Raporlama
+- <img width="380" alt="Ekran görüntüsü 2025-05-22 175539" src="https://github.com/user-attachments/assets/2452e85a-f3e5-4aca-9ecf-863eb4bd7aca" />
 
 ## 🤝 Katkıda Bulunma
 
