@@ -60,6 +60,7 @@
 ## 👥 Geliştiriciler
 
 - [Berkay Yavuz](https://github.com/Berkya97)
+- [İsmet Şen](https://github.com/ismetse)
   
 
 ## 📞 İletişim
