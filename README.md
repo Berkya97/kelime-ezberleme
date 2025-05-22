@@ -42,9 +42,9 @@
    ```
 
 ## 📱 Ekran Görüntüleri
+![Screenshot_20250522_180619](https://github.com/user-attachments/assets/254ab029-6563-4864-817c-568a894625f8) ![Screenshot_20250522_180712](https://github.com/user-attachments/assets/4196b16b-0e8d-4ddc-9d90-5eadb2e47180)
+![Screenshot_20250522_180723](https://github.com/user-attachments/assets/ebe22787-cce6-40ed-8a59-b8b72df67b9b) ![Screenshot_20250522_180737](https://github.com/user-attachments/assets/e32c5d0f-a89e-4c0c-bffd-5058e0c1cfdc)
 
-<img width="292" alt="Ekran görüntüsü 2025-05-22 175428" src="https://github.com/user-attachments/assets/7a2523ce-2f0c-470e-964f-ebd7d69daacd" />  <img width="287" alt="Ekran görüntüsü 2025-05-22 175507" src="https://github.com/user-attachments/assets/d2a506bf-d67e-4612-be16-94093a5cdb4c" />
- <img width="293" alt="Ekran görüntüsü 2025-05-22 175442" src="https://github.com/user-attachments/assets/8ec6bd08-c5b6-4f06-bbba-5c36462dec18" /> <img width="380" alt="Ekran görüntüsü 2025-05-22 175539" src="https://github.com/user-attachments/assets/2452e85a-f3e5-4aca-9ecf-863eb4bd7aca" />
 
 ## 🤝 Katkıda Bulunma
 
