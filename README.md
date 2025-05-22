@@ -43,7 +43,7 @@
 
 ## 📱 Ekran Görüntüleri
 <img width="329" alt="Ekran görüntüsü 2025-05-22 181931" src="https://github.com/user-attachments/assets/48e6a4e2-fdd2-4d97-9956-ab115031ea64" /> <img width="329" alt="Ekran görüntüsü 2025-05-22 181815" src="https://github.com/user-attachments/assets/e3298c14-3103-489e-92f9-9f819b86370a" />
-<img width="326" alt="Ekran görüntüsü 2025-05-22 181834" src="https://github.com/user-attachments/assets/d7741ee3-b948-4a73-b129-bd11fc75e1d4" /><img width="327" alt="Ekran görüntüsü 2025-05-22 181852" src="https://github.com/user-attachments/assets/294bf08b-cd73-4a21-be23-9373e958eb3f" />
+<img width="326" alt="Ekran görüntüsü 2025-05-22 181834" src="https://github.com/user-attachments/assets/d7741ee3-b948-4a73-b129-bd11fc75e1d4" /> <img width="327" alt="Ekran görüntüsü 2025-05-22 181852" src="https://github.com/user-attachments/assets/294bf08b-cd73-4a21-be23-9373e958eb3f" />
 
 
 
